@@ -14,9 +14,9 @@ markdown: kramdown
 ### content configuration ###
 title:       "Computing Skills Workshop for Researchers"
 keywords:    "CAMH, research, computing, scientific computing, workshop"
-description: "A 6 day long series of self-paced computing skills fundamentals workshops for CAMH researchers"
-root:        "https://camh-scwg.github.io/compucool-oct-2016"
-sources_link: "http://camh-scwg.github.io/compucool-oct-2016"
+description: "A 2 day series of self-paced computing skills fundamentals workshops for CAMH researchers at the Queen Street site"
+root:        "https://camh-scwg.github.io/feb-2017-workshops"
+sources_link: "http://camh-scwg.github.io/feb-2017-workshops"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
@@ -31,4 +31,3 @@ colors:
   purple:    '#6E298D'
   orange:    '#F78E1E'
   turquoise: '#0fbfcf'
-  
