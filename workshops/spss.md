@@ -3,7 +3,7 @@ title: Workshop Title
 layout: workshop
 ---
 
-# SPSS with Marcos!
+# SPSS with Marcia!
 
 --------
 
