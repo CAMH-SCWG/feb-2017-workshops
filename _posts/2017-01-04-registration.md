@@ -11,7 +11,7 @@ fa-icon: calendar
 
 ### All courses are being held in the TD Learning Centre in the Doctor's Association Building at 101 Stokes Street.
 
-<img src="https://cloud.githubusercontent.com/assets/13733654/22316742/3a8ebb86-e33d-11e6-8a57-2fd8cfbcc23e.png" alt="hi" class="inline"/>
+<div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/13733654/22316742/3a8ebb86-e33d-11e6-8a57-2fd8cfbcc23e.png" alt="hi" class="inline"/></div>
 
 
 ### Questions? Email us at scwg@camh.ca 
