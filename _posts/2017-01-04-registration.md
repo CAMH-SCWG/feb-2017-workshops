@@ -9,7 +9,8 @@ fa-icon: calendar
 
 ### The SCWG workshop series is FREE for all CAMH students, staff, and trainees. It is also open to other members of the community that might find the courses useful. 
 
-### All courses are being held in the TD Learning Centre in the Doctor's Association Building at 101 Stokes Street.
+### All courses are being held in the TD Learning Centre in the Doctor's Association Building at 101 Stokes Street, G1105.
+
 
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/13733654/22316742/3a8ebb86-e33d-11e6-8a57-2fd8cfbcc23e.png" alt="hi" class="inline"/></div>
 
