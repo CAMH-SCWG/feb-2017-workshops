@@ -3,7 +3,7 @@ title: Workshop Title
 layout: workshop
 ---
 
-# MS Access with Ricardo!
+# MS Access with Navona!
 
 --------
 

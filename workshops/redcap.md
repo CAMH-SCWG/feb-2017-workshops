@@ -3,7 +3,7 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Introduction to REDCap 
+# Database Management and Data Collection - REDCap
 
 --------
 
