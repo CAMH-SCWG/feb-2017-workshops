@@ -3,12 +3,7 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Spreadsheets with Yuliya!
-
---------
-
-**Wifi SSID**: `workshop`
-
+# Spreadsheets with Yuliya and Arin!
 
 ---------
 
