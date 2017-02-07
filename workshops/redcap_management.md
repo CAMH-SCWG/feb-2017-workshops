@@ -7,10 +7,8 @@ layout: workshop
 
 ---------
 
-Please have a REDCap account. 
-
-- **REDCap**: [login here](https://edc.camhx.ca/redcap/)
+Please have a REDCap account.  [Login here](https://edc.camhx.ca/redcap/).
 
 ---------
 
-Please download the [data here](http://bit.ly/2glNU24)
+Please download the [data set](http://bit.ly/2glNU24) we will be working with today.
