@@ -3,19 +3,20 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Database Management and Data Collection - REDCap
+# Database Creation - REDCap
+## with Kyle & Navona
 
 --------
 
 ---------
 
-Please have a REDCap account if you want to follow along. 
+Please have a REDCap account. 
 
 - **REDCap**: [login here](https://edc.camhx.ca/redcap/)
 
 ---------
 
-***Demographics Form***
+***Example demographics form items***
 
   -   Record ID
   -   Date of assessment
@@ -52,7 +53,7 @@ Please have a REDCap account if you want to follow along.
 
 ---------
 
-***Example instrument for us to upload***
+***Example instrument for us to upload*** 
 
 
 [SANS.xlsx](/compucool/workshops/data/SANS.xlsx)
