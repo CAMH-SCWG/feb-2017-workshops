@@ -3,10 +3,7 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Database Management - REDCap
-## with Steve & Sophie
-
---------
+# REDCap Database Management with Steve & Sophie!
 
 ---------
 
