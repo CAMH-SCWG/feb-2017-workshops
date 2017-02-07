@@ -7,11 +7,6 @@ layout: workshop
 
 --------
 
-**Wifi SSID**: `workshop`
-
-
----------
-
 Please download the following files
 
 
