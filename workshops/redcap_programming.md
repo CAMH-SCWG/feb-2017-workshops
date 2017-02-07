@@ -3,12 +3,9 @@ title: Workshop Title
 layout: workshop
 ---
 
-# Database Creation - REDCap
-## with Kyle & Navona
+# REDcap Database Creation with Kyle & Navona
 
 --------
-
----------
 
 Please have a REDCap account. 
 
